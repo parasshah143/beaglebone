@@ -1,0 +1,16 @@
+
+ ADC reading is 1070 Digit 2434  at  Thu Apr 24 02:59:36 2014
+ ADC reading is 1058 Digit 2409  at  Thu Apr 24 02:59:37 2014
+ ADC reading is 1055 Digit 2400  at  Thu Apr 24 02:59:38 2014
+ ADC reading is 1065 Digit 2425  at  Thu Apr 24 02:59:39 2014
+ ADC reading is 1049 Digit 2389  at  Thu Apr 24 02:59:40 2014
+ ADC reading is 1042 Digit 2371  at  Thu Apr 24 02:59:41 2014
+ ADC reading is 1048 Digit 2384  at  Thu Apr 24 02:59:42 2014
+ ADC reading is 1053 Digit 2398  at  Thu Apr 24 02:59:43 2014
+ ADC reading is 1052 Digit 2396  at  Thu Apr 24 02:59:44 2014
+ ADC reading is 1042 Digit 2371  at  Thu Apr 24 02:59:45 2014
+ ADC reading is 1050 Digit 2391  at  Thu Apr 24 02:59:46 2014
+ ADC reading is 1050 Digit 2391  at  Thu Apr 24 02:59:47 2014
+ ADC reading is 1043 Digit 2375  at  Thu Apr 24 02:59:48 2014
+ ADC reading is 1052 Digit 2393  at  Thu Apr 24 02:59:49 2014
+ ADC reading is 1055 Digit 2400  at  Thu Apr 24 02:59:50 2014

@@ -1,0 +1,6 @@
+sudo ./inet.sh
+
+sh inet.sh
+
+chmod a+x inet.sh
+
